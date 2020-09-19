@@ -1,0 +1,6 @@
+co\edu\iud\practica\grajales\mateo\tetris\gui\Ventana.class
+co\edu\iud\practica\grajales\mateo\tetris\logica\CampoDeJuego.class
+co\edu\iud\practica\grajales\mateo\tetris\logica\Jugador.class
+co\edu\iud\practica\grajales\mateo\tetris\gui\PanelDibujable.class
+co\edu\iud\practica\grajales\mateo\tetris\logica\Figura.class
+co\edu\iud\practica\grajales\mateo\tetris\Main.class
